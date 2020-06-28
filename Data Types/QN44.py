@@ -1,0 +1,5 @@
+tuple1 = tuple("Hello Python")
+print(tuple1[:5])
+print(tuple1[1:])
+print(tuple1[-5:-1])
+print(tuple1[:3:2])
